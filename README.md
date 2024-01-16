@@ -1,0 +1,10 @@
+-Hello everyone 👋
+-
+- 🔭 I am currently working on Cypress Web automation
+- 🌱 I am currently learning Maestro Mobile automation
+- 👯 I'm looking to collaborate on beginner tests
+- 🤔 I'm looking for help with web and mobile automation
+- 💬 Ask me about testes manuais web, mobile e api
+- 📫 How to contact me: vivene-naiara@hotmail.com
+- 😄 Pronouns: She
+- ⚡ Fun fact: I love the color pink
